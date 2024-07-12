@@ -13,5 +13,3 @@ class Cafe:
         
         self.order =[]
         print("Welcome to BiBlog Cafe ")
-        
-    
